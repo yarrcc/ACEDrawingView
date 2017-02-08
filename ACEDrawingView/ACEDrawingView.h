@@ -24,7 +24,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "ACEDrawingLabelView.h"
+#import <ACEDrawingView/ACEDrawingLabelView.h>
 
 #define ACEDrawingViewVersion   2.0.1
 
